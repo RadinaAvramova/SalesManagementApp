@@ -1,2 +1,1 @@
 # SalesManagementApp
-SalesManagementApp
